@@ -32,7 +32,7 @@ const message = `Happiest birthday to my favorite person.
 
 I know this is just a small website, but I wanted to make something you can open anytime and come back to whenever you want. Something simple that reminds you how loved you are.
 
-Since August 2022, when you came into my life, so many things started to feel different in the best way. The ordinary days didn’t feel so ordinary anymore. Somehow, you became the person I tell everything to — the first one I run to when something exciting happens, and the one I want beside me even during the quiet, normal moments.
+Since 2022, when you came into my life, so many things started to feel different in the best way. The ordinary days didn’t feel so ordinary anymore. Somehow, you became the person I tell everything to — the first one I run to when something exciting happens, and the one I want beside me even during the quiet, normal moments.
 
 I love how being with you feels easy and calm. Without even realizing it, you slowly became my safe place.
 
