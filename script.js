@@ -34,7 +34,7 @@ I know this is just a small website, but I wanted to make something you can open
 
 Since August 2022, when you came into my life, so many things started to feel different in the best way. The ordinary days didn’t feel so ordinary anymore. Somehow, you became the person I tell everything to — the first one I run to when something exciting happens, and the one I want beside me even during the quiet, normal moments.
 
-I love how you make me laugh without even trying. I love how being with you feels easy and calm, like I don’t have to pretend to be anyone else. Without even realizing it, you slowly became my safe place.
+I love how being with you feels easy and calm. Without even realizing it, you slowly became my safe place.
 
 Looking at these pictures reminds me of all the little memories we’ve made together. The simple moments that didn’t seem big at the time, but now mean so much because they happened with you.
 
