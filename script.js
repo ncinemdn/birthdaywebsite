@@ -12,6 +12,7 @@ document.getElementById("main-site").style.display="block";
 document.getElementById("music").play();
 
 createHearts();
+createMusicNotes();
 
 },900);
 
@@ -89,6 +90,28 @@ document.body.appendChild(heart);
 setTimeout(()=>{heart.remove();},6000);
 
 },300);
+
+}
+
+function createMusicNotes(){
+
+setInterval(()=>{
+
+let note=document.createElement("div");
+
+note.classList.add("music-note");
+
+note.innerHTML=Math.random() > 0.5 ? "♪" : "♫";
+
+note.style.left=Math.random()*100+"vw";
+
+note.style.fontSize=(Math.random()*20+16)+"px";
+
+document.body.appendChild(note);
+
+setTimeout(()=>{note.remove();},12000);
+
+},1800);
 
 }
 
